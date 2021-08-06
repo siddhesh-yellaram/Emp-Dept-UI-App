@@ -1,0 +1,10 @@
+D:\test\ADO .NET\EmpDeptUIApp\bin\Debug\EmpDeptUIApp.exe.config
+D:\test\ADO .NET\EmpDeptUIApp\bin\Debug\EmpDeptUIApp.exe
+D:\test\ADO .NET\EmpDeptUIApp\bin\Debug\EmpDeptUIApp.pdb
+D:\test\ADO .NET\EmpDeptUIApp\obj\Debug\EmpDeptUIApp.csproj.AssemblyReference.cache
+D:\test\ADO .NET\EmpDeptUIApp\obj\Debug\EmpDeptUIApp.Properties.Resources.resources
+D:\test\ADO .NET\EmpDeptUIApp\obj\Debug\EmpDeptUIApp.csproj.GenerateResource.cache
+D:\test\ADO .NET\EmpDeptUIApp\obj\Debug\EmpDeptUIApp.csproj.CoreCompileInputs.cache
+D:\test\ADO .NET\EmpDeptUIApp\obj\Debug\EmpDeptUIApp.exe
+D:\test\ADO .NET\EmpDeptUIApp\obj\Debug\EmpDeptUIApp.pdb
+D:\test\ADO .NET\EmpDeptUIApp\obj\Debug\EmpDeptUIApp.EmpDataDisp.resources
